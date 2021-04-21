@@ -1,6 +1,6 @@
 * {
-  outline: 1px solid red;
-  outline-offset: -1px;
+  /* outline: 1px solid red;
+  outline-offset: -1px; */
   font-family: "Noto Sans KR", sans-serif;
   text-decoration: none;
   padding: 0;
@@ -100,21 +100,21 @@ nav > ul > li:last-child {
 
 nav > div .mainArea {
   width: 100%;
-  height: 200px;
+  height: 380px;
   background: #000;
 }
 
 nav > div .post {
   margin: 0 auto;
-  width: 320px;
+  width: 480px;
   height: 100%;
 }
 
 nav > div .photoSet .slideshow {
-  width: 320px;
+  width: 480px;
   background: white;
   display: block;
-  height: 200px;
+  height: 360px;
   position: relative;
   overflow: hidden;
 }
@@ -140,7 +140,7 @@ nav > div .slideshow .slide div {
 nav > div .slideshow .slide img {
   max-width: 100%;
   width: auto;
-  height: 180px;
+  height: 360px;
 }
 
 main {
