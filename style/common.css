@@ -1,10 +1,21 @@
 * {
-  outline: 1px solid red;
-  outline-offset: -1px;
+  /* outline: 1px solid red;
+  outline-offset: -1px; */
   font-family: "Noto Sans KR", sans-serif;
   text-decoration: none;
   padding: 0;
   margin: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 100vh;
 }
 
 body {
@@ -30,24 +41,12 @@ ul {
   list-style-type: none;
 }
 
-a:link {
-  color: black;
-  text-decoration: none;
-}
-
-a:visited {
-  color: black;
-  text-decoration: none;
-}
-
-a:hover {
-  color: black;
-  text-decoration: none;
-}
-
+a:link,
+a:visited,
+a:hover,
 a:active {
-  color: black;
   text-decoration: none;
+  color: white;
 }
 
 .common-container {
@@ -56,7 +55,8 @@ a:active {
 }
 
 header {
-  background-color: black;
+  /* border-bottom: 1px solid #000; */
+  background: #212121;
 }
 
 header > div.common-container {
@@ -67,7 +67,6 @@ header > div.common-container {
 
 header > div.common-container > span > a {
   font-size: 2em;
-  color: white;
 }
 
 header > div.common-container > ul {
@@ -80,18 +79,40 @@ header > div.common-container > ul > li {
   cursor: pointer;
 }
 
-header > div.common-container > ul > li > a {
-  color: white;
+nav > ul {
+  display: flex;
+  justify-content: center;
+  background: #212121;
+  /* border-top: 1px solid #616161; */
+  border-bottom: 1px solid #616161;
+  color: #fff;
+}
+
+nav > ul > li {
+  padding: 10px 20px;
+  background: #212121;
+  border-left: 3px solid #111111;
+}
+
+nav > ul > li:last-child {
+  border-right: 3px solid #111;
+}
+
+main {
+  background: #cfcfcf;
+  color: black;
+  padding: 20px 0;
+  flex-grow: 1;
 }
 
 .mainArea {
   width: 100%;
+  background: #000;
 }
 
 .post {
   margin: 0 auto;
   width: 500px;
-  padding-top: 2em;
 }
 
 .photoSet .slideshow {
@@ -146,4 +167,41 @@ header > div.common-container > ul > li > a {
 
 .slideshow .slide:hover .caption {
   opacity: 1;
+}
+
+footer {
+  background: #212121;
+  color: white;
+  font-size: 0.7em;
+  border-top: 1px solid #616161;
+}
+
+footer > div.common-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+footer > div.common-container > span:first-child {
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  padding: 5px 0;
+}
+
+footer > div.common-container > span:first-child > span {
+  margin-right: 20px;
+}
+
+footer > div.common-container > span:first-child > span > div {
+}
+
+footer > div.common-container > span:nth-child(2) > a {
+  font-size: 2em;
+}
+
+footer > div:nth-child(2) {
+  /* border-top: 1px solid #616161; */
+  padding: 5px 0;
+  background: #000;
 }

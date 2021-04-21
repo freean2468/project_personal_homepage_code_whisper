@@ -21,8 +21,8 @@
     </section>
 </div>
 <ul>
-    <li>back-end</li>
+    <li>이력서</li>
+    <li>포트폴리오</li>
     <li>front-end</li>
-    <li>web programming</li>
-    <li>native programming</li>
+    <li>back-end</li>
 </ul>
