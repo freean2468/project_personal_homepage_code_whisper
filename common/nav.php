@@ -4,12 +4,6 @@
             <div class='post photoSet 1photos'>
                 <div class='slideshow'>
                     <div class='slide'>
-                        <a href="https://youtu.be/jU-9tvIG8To" target="_blank">
-                            <div>android - scalatra - mysql 로 구현한 다이어리 앱</div>
-                            <img src="https://i9.ytimg.com/vi_webp/jU-9tvIG8To/mqdefault.webp?time=1618974600000&sqp=CIiv_oMG&rs=AOn4CLAg1jk1kiKLqBPtPbYi53sXcmq5kQ" alt="android - scalatra - mysql 로 구현한 다이어리 앱"/>
-                        </a>
-                    </div>
-                    <div class='slide'>
                         <a href="https://youtu.be/-PFEnU79u6o" target="_blank">
                             <div>android - python - scalatra - mysql 을 이용한 <br/>주식 종목 분석 프로그램</div>
                             <img src="https://i9.ytimg.com/vi/-PFEnU79u6o/mq2.jpg?sqp=CIy2_oMG&rs=AOn4CLBoUOi4o1qU30FlCTMUESWd6jaqpw" alt="android - python - scalatra - mysql 을 이용한 주식 종목 분석 프로그램"/>
@@ -85,6 +79,12 @@
                         <a href="https://youtu.be/3_vzqIr4e30">
                             <div>puffpuff (팩맨류 게임) with C & WinAPI</div>
                             <img src="https://i9.ytimg.com/vi/3_vzqIr4e30/mq1.jpg?sqp=COjB_oMG&rs=AOn4CLB8RSW_TPcrk869tiBn5H8dwCYIxQ" alt="puffpuff (팩맨류 게임) with C & WinAPI">
+                        </a>
+                    </div>
+                    <div class='slide'>
+                        <a href="https://youtu.be/jU-9tvIG8To" target="_blank">
+                            <div>android - scalatra - mysql 로 구현한 다이어리 앱</div>
+                            <img src="https://i9.ytimg.com/vi_webp/jU-9tvIG8To/mqdefault.webp?time=1618974600000&sqp=CIiv_oMG&rs=AOn4CLAg1jk1kiKLqBPtPbYi53sXcmq5kQ" alt="android - scalatra - mysql 로 구현한 다이어리 앱"/>
                         </a>
                     </div>
                 </div>

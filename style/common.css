@@ -1,6 +1,6 @@
 * {
-  /* outline: 1px solid red;
-  outline-offset: -1px; */
+  outline: 1px solid red;
+  outline-offset: -1px;
   font-family: "Noto Sans KR", sans-serif;
   text-decoration: none;
   padding: 0;
@@ -148,6 +148,20 @@ main {
   color: black;
   padding: 20px 0;
   flex-grow: 1;
+}
+
+main > div.common-container {
+  display: flex;
+}
+
+main > div.common-container > span {
+  flex-grow: 1;
+  padding: 5px;
+}
+
+main > div.common-container > aside {
+  flex-grow: 1;
+  padding: 5px;
 }
 
 footer {
