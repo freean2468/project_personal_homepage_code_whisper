@@ -16,7 +16,7 @@
         </tr>
         <tr>
             <td class="no-lr" colspan="3">
-                <h3>E-mail</h3>
+                <h2>E-mail</h2>
             </td>
         </tr>
         <tr>
@@ -26,22 +26,22 @@
         </tr>
         <tr>
             <td class="no-lr" colspan="3">
-                <h3>GitHub</h3>
+                <h2>GitHub</h2>
             </td>
         </tr>
         <tr>
             <td colspan="3">
-                <a href="https://github.com/freean2468">https://github.com/freean2468</a>                    
+                <a href="https://github.com/freean2468" target="_blank">https://github.com/freean2468</a>                    
             </td>
         </tr>
         <tr>
             <td class="no-lr" colspan="3">
-                <h3>Experience</h3>
+                <h2>Experience</h2>
             </td>
         </tr>
         <tr>
             <td>Language</td>
-            <td colspan="2">Scala, Java, Python, PHP, Javascript, C++, C</td>
+            <td colspan="2">Scala, Java, Python, PHP, Javascript, C/C++</td>
         </tr>
         <tr>
             <td>OS Platform</td>
@@ -49,24 +49,32 @@
         </tr>
         <tr>
             <td>Framework</td>
-            <td colspan="2">Node.js, Express.js</td>
+            <td colspan="2">Scalatra, Node.js, Express.js</td>
         </tr>
         <tr>
             <td>Library</td>
-            <td colspan="2">React</td>
+            <td colspan="2">React, Scala.Slick, Volley</td>
         </tr>
         <tr>
             <td>Database</td>
             <td colspan="2">MySQL, MongoDB, PostgreSQL</td>
         </tr>
         <tr>
+            <td>Networking</td>
+            <td colspan="2">Socket API, HTTP, Ajax</td>
+        </tr>        
+        <tr>
+            <td>Cloud</td>
+            <td colspan="2">AWS EB, AWS ECR, AWS RDS</td>
+        </tr>
+        <tr>
             <td class="no-lr" colspan="3">
-                <h3>English Skill</h3>
+                <h2>English Skill</h2>
             </td>
         </tr>
         <tr>
             <td colspan="3">
-                <a href="https://www.instagram.com/sensebecommon/">https://www.instagram.com/sensebecommon/</a>
+                <a href="https://www.instagram.com/sensebecommon/" target="_blank">https://www.instagram.com/sensebecommon/</a>
             </td>
         </tr>
     </table>

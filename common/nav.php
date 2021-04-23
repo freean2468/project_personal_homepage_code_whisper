@@ -92,11 +92,11 @@
         </div>
     </section>
 </div>
-<ul>
+<!-- <ul>
     <a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/code_whisper/index.php">
         <li>Profile</li>
     </a>    
     <li>Portfolio</li>
     <li>Front-end</li>
     <li>Back-end</li>
-</ul>
+</ul> -->

@@ -49,6 +49,10 @@ a:active {
   color: white;
 }
 
+h1 {
+  padding: 10px 0;
+}
+
 table,
 th,
 td {
