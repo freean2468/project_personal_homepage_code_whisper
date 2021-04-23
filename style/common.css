@@ -49,6 +49,37 @@ a:active {
   color: white;
 }
 
+table,
+th,
+td {
+  border: 1px solid #757575;
+  border-collapse: collapse;
+  vertical-align: center;
+  text-align: center;
+}
+
+th img {
+  vertical-align: top;
+}
+
+td {
+  font-size: 0.8em;
+  padding: 0 20px;
+}
+
+td.no-lr {
+  border-left: 1px solid #cfcfcf;
+  border-right: 1px solid #cfcfcf;
+  padding: 20px 0 10px 0;
+}
+
+td a:link,
+td a:visited,
+td a:hover,
+td a:active {
+  color: #494949;
+}
+
 .common-container {
   width: 900px;
   margin: 0 auto;
@@ -88,6 +119,7 @@ nav > ul {
   color: #fff;
 }
 
+nav > ul > a > li,
 nav > ul > li {
   padding: 10px 20px;
   background: #212121;
@@ -151,17 +183,12 @@ main {
 }
 
 main > div.common-container {
-  display: flex;
-}
-
-main > div.common-container > span {
   flex-grow: 1;
   padding: 5px;
 }
 
-main > div.common-container > aside {
-  flex-grow: 1;
-  padding: 5px;
+main > div.common-container > table {
+  margin: 0 auto;
 }
 
 footer {
@@ -186,9 +213,6 @@ footer > div.common-container > span:first-child {
 
 footer > div.common-container > span:first-child > span {
   margin-right: 20px;
-}
-
-footer > div.common-container > span:first-child > span > div {
 }
 
 footer > div.common-container > span:nth-child(2) > a {

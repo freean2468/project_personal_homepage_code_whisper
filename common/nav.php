@@ -93,8 +93,10 @@
     </section>
 </div>
 <ul>
-    <li>이력서</li>
-    <li>포트폴리오</li>
-    <li>front-end</li>
-    <li>back-end</li>
+    <a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/code_whisper/index.php">
+        <li>Profile</li>
+    </a>    
+    <li>Portfolio</li>
+    <li>Front-end</li>
+    <li>Back-end</li>
 </ul>
