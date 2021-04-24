@@ -1,7 +1,3 @@
-<?php
-    session_start();
-    $_SESSION["test"] = "session test";
-?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,22 +6,25 @@
 </head>
 
 <body>
-    <header>
-        <?php include $_SERVER['DOCUMENT_ROOT'] . "/code_whisper/common/header.php"; ?>
-    </header>
+    <div id="background">
+        <header>
+            <?php include $_SERVER['DOCUMENT_ROOT'] . "/code_whisper/common/header.php"; ?>
+        </header>
 
-    <nav>
-        <?php include $_SERVER['DOCUMENT_ROOT'] . "/code_whisper/common/nav.php"; ?>
-    </nav>
-
-    <main>
-        <?php include $_SERVER['DOCUMENT_ROOT'] . "/code_whisper/common/main.php"; ?>
-    </main>
-
-    <footer>
-        <?php include $_SERVER['DOCUMENT_ROOT'] . "/code_whisper/common/footer.php"; ?>
-    </footer>
-
+        <main>
+            <div class="common-container">
+                <div class="content-container">
+                    <h1>
+                        Hello, I'm Neil.
+                    </h1>
+                    <h3>
+                        I'm a developer and survivalist <br/>
+                        from Seoul, Korea.
+                    </h3>
+                </div>
+            </div>
+        </main>
+    </div>
 </body>
 
 </html>

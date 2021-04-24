@@ -1,7 +1,7 @@
 <div class="common-container">
     <span>
         <a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/code_whisper/index.php">
-            Code Whisper
+            Neil Son
         </a>
     </span>
     <ul>

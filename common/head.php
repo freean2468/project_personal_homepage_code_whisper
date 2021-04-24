@@ -4,7 +4,7 @@
 <meta name="referrer" content="no-referrer">
 
 <!-- common css -->
-<link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/code_whisper/style/common.css?after=18">
+<link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/code_whisper/style/common.css?after=21">
 
 <!-- font awesome -->
 <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -16,4 +16,4 @@
 <!-- nav image slide script -->
 <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/code_whisper/common/js/slide.js" defer></script>
 
-<title>Code Whisper</title>
+<title>Neil Son</title>
