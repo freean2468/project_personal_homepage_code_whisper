@@ -1,6 +1,6 @@
 * {
-  /* outline: 1px solid red;
-  outline-offset: -1px; */
+  outline: 1px solid red;
+  outline-offset: -1px;
   font-family: "Noto Sans KR", sans-serif;
   text-decoration: none;
   padding: 0;
@@ -8,11 +8,10 @@
 }
 
 html {
-  height: 100%;
+  min-height: 100%;
 }
 
 body {
-  height: 100vh;
   min-height: 100vh;
   min-width: 1130px;
 }
@@ -52,14 +51,28 @@ a:active {
   color: white;
 }
 
-h1 {
+h1.title {
   padding: 150px 0 50px 0;
   font-size: 6em;
 }
 
-h3 {
+h2.sub-title {
   font-size: 2em;
   padding: 0 0 30px 0;
+}
+
+h2.sub-title-3 {
+  font-size: 2em;
+  text-align: center;
+}
+
+h3.sub-title-2 {
+  text-align: center;
+  font-size: 1.4em;
+}
+
+table {
+  margin: 0 auto;
 }
 
 table,
@@ -91,6 +104,52 @@ td a:visited,
 td a:hover,
 td a:active {
   color: #494949;
+}
+
+div.paragraph-title {
+  padding: 10px;
+}
+
+div.content-main-container > div {
+  margin: 50px 0 0 0;
+}
+
+div#paragraph-android-team > div:nth-child(2) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+div#paragraph-android-team > div:nth-child(2) img {
+  max-width: 100%;
+}
+
+div#paragraph-android-team > div:nth-child(2) > span:nth-child(2) {
+  text-align: center;
+  width: 50px;
+}
+
+div#paragraph-android-team > div:nth-child(3) {
+  padding: 10px;
+}
+
+div#paragraph-android-alone > div:nth-child(2) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+div#paragraph-android-alone > div:nth-child(2) img {
+  max-width: 100%;
+  width: 450px;
+  height: 380px;
+  margin: 0 20px;
+}
+
+div#paragraph-android-alone > div:nth-child(2) {
+  padding: 10px;
 }
 
 .common-container {
@@ -129,8 +188,14 @@ main > div.common-container {
   color: white;
 }
 
-main > div.common-container > div.content-container {
+main > div.common-container > div.content-top-container {
   max-width: 700px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+main > div.common-container > div.content-main-container {
+  min-width: 700px;
   margin: 0 auto;
   text-align: left;
 }
