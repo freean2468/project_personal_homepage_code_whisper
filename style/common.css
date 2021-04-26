@@ -1,6 +1,6 @@
 * {
-  outline: 1px solid red;
-  outline-offset: -1px;
+  /* outline: 1px solid red;
+  outline-offset: -1px; */
   font-family: "Noto Sans KR", sans-serif;
   text-decoration: none;
   padding: 0;
@@ -112,6 +112,7 @@ div.paragraph-title {
 
 div.content-main-container > div {
   margin: 50px 0 0 0;
+  border-top: 1px solid #8e0000;
 }
 
 div#paragraph-android-team > div:nth-child(2) {
@@ -150,6 +151,15 @@ div#paragraph-android-alone > div:nth-child(2) img {
 
 div#paragraph-android-alone > div:nth-child(2) {
   padding: 10px;
+}
+
+div#paragraph-ume > div:nth-child(2) {
+  text-align: center;
+  margin: 10px 0;
+}
+
+div#paragraph-ume > div:nth-child(2) > span img {
+  min-width: 700px;
 }
 
 .common-container {

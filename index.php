@@ -42,7 +42,7 @@
                                 </a>
                             </span>
                             <span>
-                                ->
+                                -&gt;
                             </span>
                             <span>
                                 <a href="https://github.com/freean2468/ProjectNext" target="_blank">
@@ -92,9 +92,81 @@
                                 &nbsp;세 개의 프로젝트에서 Scalatra 기반 웹서버를 개발했고 이를
                                 AWS ECR - AWS EB - AWS RDS 조합으로 서비스를 했습니다. 
                                 
-                                Free tier 서비스라고 생각하고 의심없이 PostgreSQL을 사용했을 
-                                약 3일 후 
+                                Free tier 서비스라고 생각하고 의심없이 PostgreSQL을 사용했는데
+                                약 3일 후 예상치 못한 요금 폭탄을 받았습니다. 혹시하는 마음으로 cost를 확인했던 것이
+                                운이 좋았습니다. 알고 보니 PostgreSQL free tier용 버전이 아니라 유료 서비스인 최신 버전을 사용했기에
+                                발생한 일이었습니다.
+
+                                또한 Free tier라도 매 달마다 리소스 사용 제한이 있었고 이를 넘어가면 비용이 부과되는 것을
+                                경험했습니다. 이런 경험들이 쌓이며 비용을 줄이고 어떻게 효율적으로 AWS를
+                                운용할 것인가 고민을 하고 실제 적용해보는 시간을 가지고 있습니다.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div id="paragraph-ume">
+                        <div class="paragraph-title">
+                            <h3 class="sub-title-2">
+                                전역 후 꿈꾸던 사업에 도전
+                            </h3>                            
+                            <h2 class="sub-title-3">
+                                세상이 원하는 제품을 개발하라
+                            </h2>
+                        </div>
+                        <div>
+                            <span>
+                                <iframe width="840" height="472.5" src="https://www.youtube.com/embed/4fdP1kN1_oI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </span>
+                        </div>
+                        <div class="texts">
+                            <p>
+                                &nbsp;전역하자마자 군생활 동안 사업 아이디어로 가지고 있던 웹앱 사이트
+                                개발에 착수했습니다. 대원들이 영어를 공부하고 싶은 생각은 있어도 의지와 실력, 동기가 부족한 것을 보고
+                                재미있게, 친숙하게 영어를 알려줄 방법이 없을까 고민을 하였고, 제가 게임을 영문판으로
+                                플레이하며 영어와 친숙해졌듯이 게임 속 장면을 통해 영어를 친숙하게 접할 수 있지 않을까 생각했습니다.
+                                이를 위해 React 문서를 보며 원하는 기능을 하나 하나 구현했고, 도메인 구매, heroku를 이용한 서버 디플로이까지
+                                경험을 쌓을 수 있었습니다. 하지만, 이미 머신러닝의 대중화로 Youtube에서는 자동 자막이 생성되었고,
+                                cake 같은 앱이 충분히 좋은 자료를 대량으로 생산해 내고 있었습니다. 이에 가능성이 없다고 생각해 서비스를 종료했습니다.
+                                Zero To One의 Peter Thiel이나, 토스의 이승건 대표님이 말씀하셨듯이 자신이 원하는 제품이 아닌 세상이 원하는 제품을 제공해야 한다는 말을 알고는 있었으나
+                                새삼 뼛속 깊이 새길 수 있었습니다.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div id="paragraph-java">
+                        <div class="paragraph-title">
+                            <h3 class="sub-title-2">
+                                다시 기초부터
+                            </h3>                            
+                            <h2 class="sub-title-3">
+                                차원이 다른 학습 속도
+                            </h2>
+                        </div>
+                        <div>
+                            <span>
+                                <a href="https://github.com/freean2468/project_mp3loud" target="_blank">
+                                    <img src="./img/p2_first.png" alt="왼쪽 이미지">
+                                </a>
+                            </span>
+                            <span>
+                                <a href="https://github.com/freean2468/project_mp3loud" target="_blank">
+                                    <img src="./img/p2_second.png" alt="오른쪽 이미지">
+                                </a>
+                            </span>
+                        </div>
+                        <div class="texts">
+                            <p>
+                                &nbsp;세 개의 프로젝트에서 Scalatra 기반 웹서버를 개발했고 이를
+                                AWS ECR - AWS EB - AWS RDS 조합으로 서비스를 했습니다. 
                                 
+                                Free tier 서비스라고 생각하고 의심없이 PostgreSQL을 사용했는데
+                                약 3일 후 예상치 못한 요금 폭탄을 받았습니다. 혹시하는 마음으로 cost를 확인했던 것이
+                                운이 좋았습니다. 알고 보니 PostgreSQL free tier용 버전이 아니라 유료 서비스인 최신 버전을 사용했기에
+                                발생한 일이었습니다.
+
+                                또한 Free tier라도 매 달마다 리소스 사용 제한이 있었고 이를 넘어가면 비용이 부과되는 것을
+                                경험했습니다. 이런 경험들이 쌓이며 비용을 줄이고 어떻게 효율적으로 AWS를
+                                운용할 것인가 고민을 하고 실제 적용해보는 시간을 가지고 있습니다.
                             </p>
                         </div>
                     </div>
