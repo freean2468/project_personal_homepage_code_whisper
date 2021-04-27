@@ -248,3 +248,13 @@ main > div.common-container > div.content-main-container {
   margin: 0 auto;
   text-align: left;
 }
+
+footer {
+  padding: 10px 0;
+  border-top: 1px solid #8e0000;
+}
+
+footer > div.common-container > div {
+  color: white;
+  margin: 0 auto;
+}

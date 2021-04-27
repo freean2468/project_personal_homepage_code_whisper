@@ -10,7 +10,6 @@
         <header>
             <?php include $_SERVER['DOCUMENT_ROOT'] . "/code_whisper/common/header.php"; ?>
         </header>
-
         <main>
             <div class="common-container">
                 <div class="content-top-container">
@@ -335,6 +334,9 @@
                 </div>
             </div>
         </main>
+        <footer>
+            <?php include $_SERVER['DOCUMENT_ROOT'] . "/code_whisper/common/footer.php"; ?>
+        </footer>
     </div>
 </body>
 
