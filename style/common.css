@@ -103,7 +103,7 @@ td a:link,
 td a:visited,
 td a:hover,
 td a:active {
-  color: #494949;
+  color: #ffebee;
 }
 
 div.paragraph-title {
@@ -158,10 +158,6 @@ div#paragraph-ume > div:nth-child(2) {
   margin: 10px 0;
 }
 
-div#paragraph-ume > div:nth-child(2) > span img {
-  min-width: 700px;
-}
-
 div#paragraph-mirae > div:nth-child(2) {
   padding: 10px;
 }
@@ -173,9 +169,41 @@ div#paragraph-mirae > div:nth-child(2) > div {
   padding: 10px 20px;
 }
 
+div#paragraph-xmon > div:nth-child(2) {
+  text-align: center;
+  margin: 10px 0;
+}
+
+div#paragraph-indie > div:nth-child(2) {
+  padding: 10px;
+}
+
+div#paragraph-indie > div:nth-child(2) > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+div#paragraph-profile {
+  padding: 20px 0;
+}
+
+div#paragraph-profile > h3.sub-title-2 {
+  padding: 10px 0;
+  font-size: 2em;
+}
+
 .common-container {
   width: 1130px;
   margin: 0 auto;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  background: black;
+  border-bottom: 1px solid #8e0000;
 }
 
 header div.common-container {

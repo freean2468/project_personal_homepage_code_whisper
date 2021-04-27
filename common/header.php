@@ -5,7 +5,7 @@
         </a>
     </span>
     <ul>
-        <li>
+        <!-- <li>
             <a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/code_whisper/index.php">
                 <i class="fas fa-address-card"></i>
             </a>
@@ -14,7 +14,7 @@
             <a href="#">
                 <i class="fas fa-folder-open"></i>
             </a>
-        </li>
+        </li> -->
         <li>
             <a href="https://github.com/freean2468" target="_blank">
                 <i class="fab fa-git-square"></i>

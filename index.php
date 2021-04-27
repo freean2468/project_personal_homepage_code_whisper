@@ -110,7 +110,7 @@
                                 다시 기초부터
                             </h3>                            
                             <h2 class="sub-title-3">
-                                당당한 걸음에서 나오는 실력
+                                실력발휘
                             </h2>
                         </div>
                         <div>
@@ -181,7 +181,73 @@
                         </div>
                     </div>
 
-                    <div>
+                    <div id="paragraph-xmon">
+                        <div class="paragraph-title">
+                            <h3 class="sub-title-2">
+                                Back-end 개발에 눈을 뜨게 된
+                            </h3>                            
+                            <h2 class="sub-title-3">
+                                Multi-thread Programming 첫 경험
+                            </h2>
+                        </div>
+                        <div>
+                            <span>
+                                <iframe width="840" height="472.5" src="https://www.youtube.com/embed/xWuBcACiG7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </span>
+                        </div>
+                        <div class="texts">
+                            <p>
+                                &nbsp; 꿈에도 그리던 게임 개발자가 되었습니다. 게임 회사에서 오랜 기간 서버 개발을
+                                해오시던 CTO님을 사수로 모시고 back-end 개발을 배웠습니다. C++ 언어 기반으로 socket
+                                통신을 하는 binary server를 개발해 위의 게임 서비스를 제공했고 이 때 
+                                Thread Locking, Deadlock, Semaphore, Critical Section과 같은 Multi Threading
+                                경험을 가질 수 있었습니다. 이때 버그로 인해 게임 진행이 멈추었을 때
+                                아무리 코드를 뒤져봐도 문제가 없어 보였고 제가 추가한 세 줄의 코드를 
+                                사수님께서 본능적으로 삭제하니 버그가 해결되었던 에피소드가 가장 기억에 납습니다. 
+                            </p>
+                        </div>
+                    </div>
+
+                    <div id="paragraph-indie">
+                        <div class="paragraph-title">
+                            <h3 class="sub-title-2">
+                                꿈과 열정
+                            </h3>                            
+                            <h2 class="sub-title-3">
+                                인디 게임 개발자
+                            </h2>
+                        </div>
+                        <div>
+                            <div>
+                                <span>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/H66-IoH6034" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </span>
+                                <span>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/HTJD6oPVP-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </span>
+                            </div>
+                            <div>
+                                <span>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Hps6EmFi4_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </span>
+                                <span>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/3_vzqIr4e30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="texts">
+                            <p>
+                                &nbsp;게임 개발자가 되겠다는 꿈을 가진 순간 저의 모든 시간을 게임 개발에 투자했습니다.
+                                게임 개발에 필요한 지식이 있다면 제가 먼저 달려들어 습득했습니다. 이에 학교에서 교과과정에
+                                빠져 있었던 물리와 수학을 공부해 3D 게임 환경을 구축했습니다. 시각적 표현을 위해
+                                미학과 디자인을 공부해 그림을 그렸고, 청각적 표현을 위해 작곡을 공부해 프로듀싱을 했고, 
+                                게임 기획과 시나리오 작성을 했습니다. 이 모든 것이 융합되는 과정에서 즐거움과 희열을 느꼈고
+                                제 창의력을 마음껏 발휘했습니다.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div id="paragraph-profile">
                         <h3 class="sub-title-2">
                             Profile
                         </h3>
