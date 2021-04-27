@@ -104,10 +104,58 @@
                         </div>
                     </div>
 
+                    <div id="paragraph-mirae">
+                        <div class="paragraph-title">
+                            <h3 class="sub-title-2">
+                                다시 기초부터
+                            </h3>                            
+                            <h2 class="sub-title-3">
+                                당당한 걸음에서 나오는 실력
+                            </h2>
+                        </div>
+                        <div>
+                            <div>
+                                <span>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/bFIrVvxTiQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </span>
+                                <span>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/3-cifwkFur0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </span>
+                            </div>
+                            <div>
+                                <span>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/tvzs2VxIaa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </span>
+                                <span>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/UUxt6wQskPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </span>
+                            </div>
+                            <div>
+                                <span>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/ixeKEfR4aVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </span>
+                                <span>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/W6Nxgye5nfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="texts">
+                            <p>
+                                &nbsp;사업 실패 후 다시 기초를 다지고 커리어를 처음부터 시작하고 싶었습니다. 이에
+                                국비 교육 과정인 안드로이드 웹앱 개발자 6개월 양성 과정에 참여했습니다. 이미 이전에
+                                5년의 프로그래밍 경험(C, C++, WinAPI, DirectX, Javascript)이 있었기에 남들과는 차원이 
+                                다른 속도로 새로운 언어와 플랫픔(Java, Android, PHP)을 습득했고 
+                                개인적으로 Scala도 따로 습득했습니다. 이에 교육 과정과 별도로
+                                개인 프로젝트를 진행하며 마음껏 창의력을 발휘했습니다. 새로운 지식의 습득과 이 지식의 활용.
+                                이 모든 과정이 즐거웠고 저는 천생 개발자임을 다시 한 번 느꼈습니다.
+                            </p>
+                        </div>
+                    </div>
+
                     <div id="paragraph-ume">
                         <div class="paragraph-title">
                             <h3 class="sub-title-2">
-                                전역 후 꿈꾸던 사업에 도전
+                                전역 후 꿈꾸던 서비스 개발에 도전
                             </h3>                            
                             <h2 class="sub-title-3">
                                 세상이 원하는 제품을 개발하라
@@ -129,44 +177,6 @@
                                 cake 같은 앱이 충분히 좋은 자료를 대량으로 생산해 내고 있었습니다. 이에 가능성이 없다고 생각해 서비스를 종료했습니다.
                                 Zero To One의 Peter Thiel이나, 토스의 이승건 대표님이 말씀하셨듯이 자신이 원하는 제품이 아닌 세상이 원하는 제품을 제공해야 한다는 말을 알고는 있었으나
                                 새삼 뼛속 깊이 새길 수 있었습니다.
-                            </p>
-                        </div>
-                    </div>
-
-                    <div id="paragraph-java">
-                        <div class="paragraph-title">
-                            <h3 class="sub-title-2">
-                                다시 기초부터
-                            </h3>                            
-                            <h2 class="sub-title-3">
-                                차원이 다른 학습 속도
-                            </h2>
-                        </div>
-                        <div>
-                            <span>
-                                <a href="https://github.com/freean2468/project_mp3loud" target="_blank">
-                                    <img src="./img/p2_first.png" alt="왼쪽 이미지">
-                                </a>
-                            </span>
-                            <span>
-                                <a href="https://github.com/freean2468/project_mp3loud" target="_blank">
-                                    <img src="./img/p2_second.png" alt="오른쪽 이미지">
-                                </a>
-                            </span>
-                        </div>
-                        <div class="texts">
-                            <p>
-                                &nbsp;세 개의 프로젝트에서 Scalatra 기반 웹서버를 개발했고 이를
-                                AWS ECR - AWS EB - AWS RDS 조합으로 서비스를 했습니다. 
-                                
-                                Free tier 서비스라고 생각하고 의심없이 PostgreSQL을 사용했는데
-                                약 3일 후 예상치 못한 요금 폭탄을 받았습니다. 혹시하는 마음으로 cost를 확인했던 것이
-                                운이 좋았습니다. 알고 보니 PostgreSQL free tier용 버전이 아니라 유료 서비스인 최신 버전을 사용했기에
-                                발생한 일이었습니다.
-
-                                또한 Free tier라도 매 달마다 리소스 사용 제한이 있었고 이를 넘어가면 비용이 부과되는 것을
-                                경험했습니다. 이런 경험들이 쌓이며 비용을 줄이고 어떻게 효율적으로 AWS를
-                                운용할 것인가 고민을 하고 실제 적용해보는 시간을 가지고 있습니다.
                             </p>
                         </div>
                     </div>
