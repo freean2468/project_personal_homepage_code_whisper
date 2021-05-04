@@ -14,6 +14,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@700&display=swap" rel="stylesheet">
 
 <!-- nav image slide script -->
-<script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/code_whisper/common/js/slide.js" defer></script>
+<!-- <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/code_whisper/common/js/slide.js" defer></script> -->
 
 <title>Neil Son</title>

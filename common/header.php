@@ -1,6 +1,7 @@
 <div class="common-container">
     <span>
         <a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/code_whisper/index.php">
+            <img src="./img/logo.png" alt="logo image">
             Neil Son
         </a>
     </span>

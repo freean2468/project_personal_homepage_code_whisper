@@ -9,6 +9,7 @@
 
 html {
   min-height: 100%;
+  background-color: black;
 }
 
 body {
@@ -94,8 +95,8 @@ td {
 }
 
 td.no-lr {
-  border-left: 1px solid #cfcfcf;
-  border-right: 1px solid #cfcfcf;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
   padding: 20px 0 10px 0;
 }
 
@@ -224,6 +225,16 @@ header div.common-container > ul {
 header div.common-container > ul > li {
   margin-left: 10px;
   cursor: pointer;
+}
+
+header > div.common-container > span > a {
+  display: flex;
+  align-items: center;
+}
+
+header > div.common-container > span > a > img {
+  height: 46px;
+  margin-top: 7px;
 }
 
 main {
