@@ -3,6 +3,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer">
 
+<link rel="shortcut icon" type="image/png" href="./img/logo.png"/>
+
 <!-- common css -->
 <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/code_whisper/style/common.css?after=34">
 
