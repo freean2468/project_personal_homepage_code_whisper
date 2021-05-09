@@ -17,6 +17,11 @@
             </a>
         </li> -->
         <li>
+            <a href="https://drive.google.com/file/d/1ETYcPwjscxOz3L2Rbq9InjDadkK7xKgP/view?usp=sharing" target="_blank">
+                <i class="far fa-address-card"></i>
+            </a>
+        </li>
+        <li>
             <a href="https://github.com/freean2468" target="_blank">
                 <i class="fab fa-git-square"></i>
             </a>
